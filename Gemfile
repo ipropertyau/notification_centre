@@ -32,6 +32,7 @@ gem 'jquery-rails'
 gem 'simple_form'
 gem 'kaminari'
 gem 'minitest'
+gem 'puma', '2.6.0'
 # gem 'rack', '1.4.5'
 # gem 'rack', '1.5.2'
 
